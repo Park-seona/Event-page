@@ -217,6 +217,11 @@ header .drop_water img {
     color: #4A4A4A;
     font-size: 15px;
 }
+.typo .font {
+    position: absolute;
+    left: 10px;
+    top: 300px;
+}
 .event_page {
     width: 100%;
     height: 4800px;
@@ -462,7 +467,7 @@ header .drop_water img {
     text-align: center;
 }
 .event_page .baro_btn:hover {
-    background-color: #fff;
+    background-color: #FFEDFB;
     border: 1px solid #FC2BCB;
     color: #FC2BCB;
     cursor: pointer;
