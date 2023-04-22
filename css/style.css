@@ -572,6 +572,16 @@ header .drop_water img {
 .event_page .gift img {
     height: 300px;
 }
+.event_page .what {
+    position: absolute;
+    left: 950px;
+    top: 5860px;
+}
+.event_page .what li {
+    color: #FC2BCB;
+    font-size: 64px;
+    font-family: 'IBM Plex Sans KR', sans-serif;
+}
 .event_page .insta_face {
     position: absolute;
     left: 267px;
