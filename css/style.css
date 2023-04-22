@@ -121,7 +121,7 @@ header .drop_water img {
 }
 .color {
     width: 100%;
-    height: 1000px;
+    height: 850px;
     position: relative;
 }
 .color img {
@@ -195,7 +195,7 @@ header .drop_water img {
 }
 .typo {
     width: 100%;
-    height: 800px;
+    height: 400px;
     position: relative;
 }
 .typo img {
@@ -219,8 +219,11 @@ header .drop_water img {
 }
 .typo .font {
     position: absolute;
-    left: 10px;
-    top: 300px;
+    left: 535px;
+    top: 200px;
+}
+.typo .font img {
+    height: 130px;
 }
 .event_page {
     width: 100%;
@@ -560,6 +563,14 @@ header .drop_water img {
     border: 1px solid #FC2BCB;
     color: #FC2BCB;
     cursor: pointer;
+}
+.event_page .gift {
+    position: absolute;
+    left: 920px;
+    top: 4165px;
+}
+.event_page .gift img {
+    height: 300px;
 }
 .event_page .insta_face {
     position: absolute;
