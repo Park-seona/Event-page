@@ -209,8 +209,8 @@ header .header_box .promotion img{
 .event_page .water_drop1 {
     position: absolute;
     left: 180px;
-    top: 450px;
-    width: 200px;
+    top: 550px;
+    width: 160px;
     z-index: 10;
     transform: translate(10deg);
     animation: fly 2.5s linear infinite;
@@ -228,7 +228,7 @@ header .header_box .promotion img{
     position: absolute;
     left: 870px;
     top: 350px;
-    width: 300px;
+    width: 130px;
     z-index: 10;
     transform: translate(10deg);
     animation: fly 2.5s linear infinite;
@@ -244,9 +244,9 @@ header .header_box .promotion img{
 }
 .event_page .water_drop3 {
     position: absolute;
-    left: 320px;
-    top: 700px;
-    width: 140px;
+    left: 360px;
+    top: 400px;
+    width: 110px;
     z-index: 10;
     transform: translate(10deg);
     animation: fly 2.5s linear infinite;
@@ -262,9 +262,9 @@ header .header_box .promotion img{
 }
 .event_page .water_drop4 {
     position: absolute;
-    left: 790px;
-    top: 680px;
-    width: 200px;
+    left: 870px;
+    top: 550px;
+    width: 300px;
     z-index: 10;
     transform: translate(10deg);
     animation: fly 2.5s linear infinite;
@@ -304,11 +304,11 @@ header .header_box .promotion img{
 }
 .event_page .baro_btn {
     position: absolute;
-    left: 645px;
-    top: 2270px;
-    width: 240px;
+    left: 670px;
+    top: 2000px;
+    width: 200px;
     height: 60px;
-    background-color: #FC2BCB;
+    background-color: #FE2E94;
     border: 0;
     border-radius: 100px;
     color: #fff;
@@ -318,14 +318,14 @@ header .header_box .promotion img{
 }
 .event_page .baro_btn:hover {
     background-color: #FFEDFB;
-    border: 1px solid #FC2BCB;
-    color: #FC2BCB;
+    border: 1px solid #FE2E94;
+    color: #FE2E94;
     cursor: pointer;
 }
 .event_page .sale1 {
     position: absolute;
     left: 220px;
-    top: 2320px;
+    top: 2140px;
     width: 150px;
     height: 150px;
     transform: translate(10deg);
@@ -343,7 +343,7 @@ header .header_box .promotion img{
 .event_page .sale2 {
     position: absolute;
     left: 480px;
-    top: 2320px;
+    top: 2140px;
     width: 150px;
     height: 150px;
     transform: translate(10deg);
@@ -361,7 +361,7 @@ header .header_box .promotion img{
 .event_page .sale3 {
     position: absolute;
     left: 745px;
-    top: 2320px;
+    top: 2140px;
     width: 150px;
     height: 150px;
     transform: translate(10deg);
@@ -397,7 +397,7 @@ header .header_box .promotion img{
     top: 3850px;
     width: 240px;
     height: 60px;
-    background-color: #FC2BCB;
+    background-color: #FE2E94;
     border: 0;
     border-radius: 100px;
     color: #fff;
@@ -407,68 +407,33 @@ header .header_box .promotion img{
 }
 .event_page .baro2_btn:hover {
     background-color: #fff;
-    border: 1px solid #FC2BCB;
-    color: #FC2BCB;
+    border: 1px solid #FE2E94;
+    color: #FE2E94;
     cursor: pointer;
 }
 .event_page .gift {
     position: absolute;
-    left: 920px;
-    top: 4165px;
+    left: 820px;
+    top: 4236px;
 }
 .event_page .gift img {
-    height: 300px;
-}
-.event_page .what {
-    position: absolute;
-    left: 946px;
-    top: 5860px;
-}
-.event_page .what li {
-    color: #FC2BCB;
-    font-size: 64px;
-    font-family: 'IBM Plex Sans KR', sans-serif;
-}
-.event_page .insta_face {
-    position: absolute;
-    left: 267px;
-    top: 5366px;
-}
-.event_page .insta_face img {
-    width: 239px;
-    height: 239px;
-    opacity: 0.8;
+    height: 180px;
 }
 .event_page .insta1 {
     position: absolute;
-    left: 530px;
-    top: 5142px;
+    left: 510px;
+    top: 4884px;
 }
 .event_page .insta1 img {
-    width: 268px;
-    height: 465px;
+    width: 320px;
+    height: 320px;
 }
 .event_page .insta2 {
     position: absolute;
-    left: 810px;
-    top: 5142px;
+    left: 760px;
+    top: 4884px;
 }
 .event_page .insta2 img {
-    width: 268px;
-    height: 465px;
-}
-.event_page .light {
-    position: absolute;
-    left: 300px;
-    top: 6240px;
-    animation: blink-effect 1s step-end infinite;
-}
-@keyframes blink-effect {
-    50% {
-        opacity: 0;
-    }
-}
-.event_page .light img {
-    width: 45px;
-    height: 45px;
+    width: 320px;
+    height: 320px;
 }
