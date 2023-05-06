@@ -317,10 +317,9 @@ header .header_box .promotion img{
     text-align: center;
 }
 .event_page .baro_btn:hover {
-    /* background-color: #FFEDFB; */
+    background-color: #FFEDFB;
     border: 1px solid #FE2E94;
     color: #FE2E94;
-    box-shadow: 200px 0 0 0 #FFEDFB inset;
     cursor: pointer;
 }
 .event_page .sale1 {
@@ -377,7 +376,7 @@ header .header_box .promotion img{
         margin-top: 10px;
       }
 }
-.event_page .vigun {
+/* .event_page .vigun {
     position: absolute;
     left: 530px;
     top: 2820px;
@@ -391,11 +390,11 @@ header .header_box .promotion img{
 .event_page .vigun img {
     width: 210px;
     height: 130px;
-}
+} */
 .event_page .baro2_btn {
     position: absolute;
-    left: 908px;
-    top: 3850px;
+    left: 954px;
+    top: 2860px;
     width: 200px;
     height: 60px;
     background-color: #FE2E94;
